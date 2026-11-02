@@ -3,7 +3,7 @@
 A modular Python utility project for a Git collaboration lab.
 
 ## Module summary
-Modules: calculator supports addition.
+Modules: calculator supports addition; text tools supports word counting.
 
 ## Run tests
 ```sh
