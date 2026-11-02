@@ -3,7 +3,7 @@
 A modular Python utility project for a Git collaboration lab.
 
 ## Module summary
-Modules: planned.
+Modules: calculator supports addition.
 
 ## Run tests
 ```sh
